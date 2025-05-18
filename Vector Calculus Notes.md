@@ -1,0 +1,1 @@
+Notes about the book "Vector Calculus, Linear Algebra, and Differential Forms - A Unified Approach".

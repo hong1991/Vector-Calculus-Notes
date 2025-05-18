@@ -1,0 +1,1 @@
+A subset $C\subset\mathbb{R}^n$ is [[closed set|closed]] if its complement $\mathbb{R}^n-C$ is open.

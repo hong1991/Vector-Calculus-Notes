@@ -1,0 +1,1 @@
+The [[boundary of subset|boundary]] of a subset $A\subset\mathbb{R}^n$, denoted $\partial{Q}$, consists of those points $x\in\mathbb{R}^n$ such that every [[neighborhood]] of $x$ intersects both $A$ and the complement of $A$.

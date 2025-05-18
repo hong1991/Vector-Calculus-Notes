@@ -1,0 +1,1 @@
+A subset $U\subset\mathbb{R}^n$ is [[open set|open]] if for every point $x\in U$, there exists $r>0$ such that the [[open ball]] $B_r(x)$ is contained in $U$.

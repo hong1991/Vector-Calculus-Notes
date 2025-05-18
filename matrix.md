@@ -1,0 +1,1 @@
+An $m \times n$ [[matrix]] is a rectangular array of entries, $m$ high and $n$ wide. We denote $Mat(m,n)$ the set of $m\times n$ matrices.

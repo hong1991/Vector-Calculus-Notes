@@ -1,0 +1,1 @@
+Let $\vec{\mathbf{f}}$ be a [[derivative|differentiable]] map from $U$ to $\mathbb{R}^n$, where $U$ is an open subset of \mathbb{R}^n$. [[Newton's method]] consists of staring with some guess $\mathbf{a}_0$ for a solution of $\vec{\mathbf{f}}=\vec{\mathbf{0}}$. Then [[linea]]

@@ -1,0 +1,1 @@
+The [[standard basis vectors]] in $\mathbb{R}^n$ are the vectors $\vec{e}_j$ with $n$ entries, the $j$th entry $1$ and the others $0$.

@@ -1,0 +1,1 @@
+A [[linear transformation]] $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ is a mapping such that for all scalars $a$ and all $\vec{v},\vec{w}\in\mathbb{R}^n$,$$T(\vec{v}+\vec{w})=T(\vec{v})+T(\vec{w})\text{ and }T(a\vec{v})=aT(\vec{v}).$$This can be combined into one (where $b$ is also a scalar):$$T(a\vec{v}+b\vec{w})=aT(\vec{v})+bT(\vec{w}).$$
