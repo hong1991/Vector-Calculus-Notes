@@ -1,0 +1,1 @@
+Let $X\subset \mathbb{R}^n$. A mapping $\mathbf{f}:X\to \mathbb{R}^m$ is **continuous** at $x_0\in X$ if $$\lim_{x\to x_0}\mathbf{f}(x)=\mathbf{f}(x_0);$$$\mathbf{f}$ is continous on $X$ if it is continous at every point of $X$.

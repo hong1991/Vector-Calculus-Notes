@@ -1,0 +1,1 @@
+The **graph** of a function $\mathbf{f}:\mathbb{R}^k\to \mathbb{R}^{n-k}$ is the set of points $\begin{pmatrix}\mathbf{x}\\\mathbf{y}\end{pmatrix}\in \mathbb{R}^n$ such that $\mathbf{f}(\mathbf{x})=\mathbf{y}$. It denoted $\Gamma(\mathbf{f})$. 

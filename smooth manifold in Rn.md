@@ -1,0 +1,3 @@
+A subset $M\subset \mathbb{R}^n$ is a smooth $k$-dimensional manifold if **locally** it is the [[graph]] of a $C^1$([[continuously differentiable function|*]]) mapping $\mathbf{f}$ expressing $n-k$ variables as functions of the other $k$ variables.
+
+"**Locally**" means that every point $\mathbf{x}\in M$ has a [[neighborhood]] $U\subset\mathbb{R}^n$ such that $M\cap U$ (the part of $M$ in $U$) is the [[graph]] of a mapping expressing $n-k$ of the coordinates of each point in $M\cap U$ in terms of the other $k$.

@@ -1,0 +1,1 @@
+A sequence is an infinite list $a_1,a_2,...$ (of numbers or vectors or matrices ...). We denote such a list by $n\mapsto a_n$, where n is assumed to be a positive (or somethims nennegative) integer.

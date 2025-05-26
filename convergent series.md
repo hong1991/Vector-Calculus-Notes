@@ -1,0 +1,1 @@
+If the [[sequence]] of partial sums of a [[series]] has a limit $S$, the series **converges**, and its limit is $$S:=\sum_{n=1}^\inf a_n.$$

@@ -1,0 +1,1 @@
+Let $U\subset \mathbb{R}^n$ be [[open set|open]], and let $f:U\to\mathbb{R}$ be a [[derivative|differentiable]] function. If the function $D_if$ is itself [[derivative|differentiable]], ten its partial derivative with respect to the $j$th variable, $$D_j(D_if),$$is called a [[second partial derivative]] of $f$.

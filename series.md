@@ -1,0 +1,1 @@
+A [[series]] is a [[sequence]] whose terms are to be added. If we consider the [[sequence]] $a_1,a_2,...$ as series, then the associated sequence of partial sums is the sequence $s_1,s_2,...$, where $$s_N=\sum_{n=1}^Na_n.$$
