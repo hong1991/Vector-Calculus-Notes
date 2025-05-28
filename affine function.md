@@ -1,0 +1,1 @@
+A [[function]] $\vec{\mathbf{f}}:\mathbb{R}^n\to\mathbb{R}^m$ is **affine** if the function $\vec{\mathbf{x}}\mapsto\vec{\mathbf{f}}(\vec{\mathbf{x}})-\vec{\mathbf{f}}(\vec{\mathbf{0}})$ is [[linear transformation|linear]]. The [[image]] of an affine function is called an **affine subspace**.

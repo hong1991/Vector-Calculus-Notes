@@ -1,0 +1,1 @@
+If $f:[a,b]\to \mathbb{R}$ is a [[continuous function]] and $c$ is a number such that $f(a)\le c$ and $f(b)\ge c$, then there exists $x_0\in[a,b]$ such that $f(x_0)=c$.

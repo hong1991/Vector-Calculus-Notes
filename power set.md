@@ -1,0 +1,1 @@
+For any set $E$, we denote by $\mathcal{P}(E)$ the set of all subsets of $E$, called the **power set** of $E$.

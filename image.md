@@ -1,0 +1,1 @@
+The set of all values of [[function]] $f$ is called its **image**: $y$ is an element of the image of a function $f$, if there exists an $x\in X$ such that $f(x)=y$.

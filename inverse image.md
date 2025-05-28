@@ -1,0 +1,1 @@
+Let $f:X\to Y$ be a function, and let $C\subset Y$ be a subset of the codomain of $f$. Then the **inverse image** of $C$ under $f$, denoted $f^{-1}(C)$, consists of those elements $x\in X$ such that $f(x)\in C$.

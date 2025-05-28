@@ -1,0 +1,1 @@
+A nonempty subset $V\subset \mathbb{R}^n$ is a **vector subspace** if when $$\vec{\mathbf{x}},\vec{\mathbf{y}}\in V \text{ and }a\in\mathbb{R}, \text{ then }\vec{\mathbf{x}}+\vec{\mathbf{y}}\in V \text{ and } a\vec{\mathbf{x}}\in V.$$
