@@ -1,0 +1,3 @@
+Let $X$ be a subset of $\mathbb{R}^n$, and $\mathbf{x}_0$ a [[points and vectors|point]] in [[closure]] $\overline{X}$. A [[function]] $\vec{\mathbf{f}}:X\to\mathbb{R}^m$ has the **limit** $\mathbf{a}$ at $\mathbf{x}_0$: $$\lim_{\mathbf{x}\to\mathbf{x}_0}\mathbf{f}(\mathbf{x})=\mathbf{a}$$ if for all $\epsilon\gt 0$ there exists $\delta\gt0$ such that for all $\mathbf{x}\in X$, $$|\mathbf{x}-\mathbf{x}_0|\gt\delta \Rightarrow|\mathbf{f}(\mathbf{x})-\mathbf{a}|\gt\epsilon.$$
+
+**Proposition:** Limit of function is unique.

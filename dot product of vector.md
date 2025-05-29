@@ -1,0 +1,7 @@
+The **dot product** $\vec{\mathbf{x}}\cdot\vec{\mathbf{y}}$ of two [[points and vectors|vectors]] $\vec{\mathbf{x}}, \vec{\mathbf{y}}\in\mathbb{R}^n$ is $$\vec{\mathbf{x}}\cdot\vec{\mathbf{y}}=\begin{bmatrix}x_1\\x_2\\\vdots\\x_n\end{bmatrix}\cdot\begin{bmatrix}y_1\\y_2\\\vdots\\y_n\end{bmatrix}:=x_1y_1+x_2y_2+\cdots+x_ny_n.$$
+The dot product canbe written as the [[matrix multiplication]] $\vec{\mathbf{x}}\cdot\vec{\mathbf{y}}=\vec{\mathbf{x}}^T\vec{\mathbf{y}}=\vec{\mathbf{y}}^T\vec{\mathbf{x}}$.
+
+**Proposition:** Let $\vec{\mathbf{x}},\vec{\mathbf{y}}$ be vectors in $\mathbb{R}^2$ or $\mathbb{R}^3$, and let $\alpha$ be the angle between them. Then $$\vec{\mathbf{x}}\cdot\vec{\mathbf{y}}=|\vec{\mathbf{x}}||\vec{\mathbf{y}}|\cos\alpha.$$
+	**Proof:**Cosider the triangle formed by the three vectors $\vec{\mathbf{x}},\vec{\mathbf{y}},\vec{\mathbf{x}}-\vec{\mathbf{y}}$; let $\alpha$ be the angle between $\vec{\mathbf{x}}$ and $\vec{\mathbf{y}}$. By the [[cosine law]], $$|\vec{\mathbf{x}}-\vec{\mathbf{y}}|^2=|\vec{\mathbf{x}}|^2+|\vec{\mathbf{y}}|^2-2|\vec{\mathbf{x}}||\vec{\mathbf{y}}|\cos\alpha.$$
+	We also write $$|\vec{\mathbf{x}}-\vec{\mathbf{y}}|^2=(\vec{\mathbf{x}}-\vec{\mathbf{y}})(\vec{\mathbf{x}}-\vec{\mathbf{y}})=|\vec{\mathbf{x}}|^2+|\vec{\mathbf{y}}|^2-2\vec{\mathbf{x}}\vec{\mathbf{y}}.$$
+	Comparing these two equations gives $$\vec{\mathbf{x}}\cdot\vec{\mathbf{y}}=|\vec{\mathbf{x}}||\vec{\mathbf{y}}|\cos\alpha.$$

@@ -1,0 +1,3 @@
+A **subsequence** of a [[sequence]] $i\mapsto a_i$ is a sequence formed by taking first some element of the original sequence, then another element further on, then another, yet further on ... It denoted $j\mapsto a_{i(j)}$ where $i(k)\gt i(j)$ when $k\gt j$.
+
+**Proposition:** If a sequence $k\mapsto a_k$ converges to $a$, then any subsequence of the sequence converges to the same [[limit of sequence|limit]] $a$.

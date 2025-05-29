@@ -1,0 +1,2 @@
+For [[points and vectors|vectors]] $\vec{\mathbf{x}},\vec{\mathbf{y}}\in\mathbb{R}^n$, $$|\vec{\mathbf{x}}+\vec{\mathbf{y}}|\le|\vec{\mathbf{x}}|+|\vec{\mathbf{y}}|.$$
+	**Proof:** By the [[Schwarz's inequality]], $$|\vec{\mathbf{x}}+\vec{\mathbf{y}}|^2=|\vec{\mathbf{x}}|^2+2\vec{\mathbf{x}}\cdot\vec{\mathbf{y}}+|\vec{\mathbf{y}}|^2\le|\vec{\mathbf{x}}|^2+2|\vec{\mathbf{x}}||\vec{\mathbf{y}}|+|\vec{\mathbf{y}}|^2=(|\vec{\mathbf{x}}|+|\vec{\mathbf{y}}|)^2,$$ so that $|\vec{\mathbf{x}}+\vec{\mathbf{y}}|\le|\vec{\mathbf{x}}|+|\vec{\mathbf{y}}|$.

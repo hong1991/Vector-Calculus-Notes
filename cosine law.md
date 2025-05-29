@@ -1,0 +1,1 @@
+Let a triangle have sides of length $a,b,c$ and let $\gamma$ be the angle opposite the side with length $c$. Then $$c^2=a^2+b^2-2ab\cos\gamma.$$
