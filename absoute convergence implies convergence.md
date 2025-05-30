@@ -1,0 +1,1 @@
+If $\sum_{i=1}^\infty|\vec{\mathbf{a}}_i|$ [[convergent sequence|converges]], then $\sum_{i=1}^\infty\vec{\mathbf{a}}_i$ converges.

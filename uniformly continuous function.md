@@ -1,0 +1,1 @@
+Let $X$ be a subset of $\mathbb{R}^n$. A [[function|mapping]] $\mathbf{f}:X\to\mathbb{R}^m$ is **uniformly continuous** on $X$ if for all $\epsilon\gt0$ there exists $\delta\gt0$ such that for all $\mathbf{x},\mathbf{y}\in X$, if $|\mathbf{x}-\mathbf{y}|\lt\delta$, then $|\mathbf{f}(\mathbf{x})-\mathbf{f}(\mathbf{y})|\lt\epsilon$.

@@ -1,0 +1,5 @@
+Let $i\mapsto a_i$ and $i\mapsto b_i$ be two [[sequence]] of [[points and vectors|points]] in $\mathbb{R}^n$, and let $i\mapsto c_i$ be a sequence of numbers. Then
+1. If $i\mapsto a_i$ and $i\mapsto b_i$ both [[convergent sequence|converge]], then so does $i\mapsto a_i+b_i$, and $$\lim_{i\to\infty}(a_i+b_i)=\lim_{i\to\infty}a_i+\lim_{i\to\infty}b_i.$$
+2.  If $i\mapsto a_i$ and $i\mapsto b_i$ both [[convergent sequence|converge]], then so does $i\mapsto c_ia_i$, and $$\lim_{i\to\infty}c_ia_i=(\lim_{i\to\infty}c_i)(\lim_{i\to\infty}a_i).$$
+3. If $i\mapsto a_i$ and $i\mapsto b_i$ both [[convergent sequence|converge]], then so do the sequence of [[points and vectors|vectors]]  $i\mapsto \vec{a_i}$ and $i\mapsto \vec{b_i}$, and the limit of the [[dot product of vector|dot products]] is the dot product of the limits: $$\lim_{i\to\infty}(\vec{a_i}\cdot\vec{b_i})=(\lim_{i\to\infty}\vec{a_i})(\lim_{i\to\infty}\vec{b_i}).$$
+4. If $i\mapsto a_i$ is [[bounded]] and $i\mapsto c_i$ converges to $0$, then $$\lim_{i\to\infty}c_ia_i=0.$$

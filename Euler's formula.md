@@ -1,0 +1,2 @@
+For any real number $t$ we have $$e^{it}=\cos t + i\sin t$$
+**Proof:** Interms of power series we have $$\sin t = t-\frac{t^3}{3!}+\frac{t^5}{5!}-\frac{t^7}{7!}+\cdots$$ $$\cos t = 1-\frac{t^2}{2!}+\frac{t^4}{4!}-\frac{t^6}{6!}+\cdots$$ $$e^{it}=1+(it)+\frac{(it)^2}{2!}+\frac{(it)^3}{3!}+\frac{(it)^4}{4!}+\cdots$$ $$=1-\frac{t^2}{2!}+\frac{t^4}{4!}-\frac{t^6}{6!}+\cdots+i(1-\frac{t^2}{2!}+\frac{t^4}{4!}-\frac{t^6}{6!}+\cdots)$$

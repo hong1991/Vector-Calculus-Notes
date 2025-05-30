@@ -1,0 +1,1 @@
+A [[sequence]] $i\mapsto a_i$ is bounded if there exists $M\lt\infty$ such that $|a_i|\le M$ for all $i$. 

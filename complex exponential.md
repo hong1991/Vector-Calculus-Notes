@@ -1,0 +1,2 @@
+For any complex number $z$, the [[series]] $$e^z:=1+z+\frac{z^2}{2!}+\cdots=\sum_{k=0}^\infty \frac{z^k}{k!} \text{ converges.}$$
+**Proof:** $\sum_{k=0}^\infty\frac{x^k}{k!}$ [[convergent sequence|converges]] to $e^x$ for all $x\in\mathbb{R}$. Since $$\left|\frac{z^k}{k!}\right|=\frac{|z|^k}{k!},$$ the series defining $e^z$ converge absolutely, hence converges by [[absoute convergence implies convergence]].
