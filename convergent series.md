@@ -1,1 +1,1 @@
-If the [[sequence]] of partial sums of a [[series]] has a limit $S$, the series **converges**, and its limit is $$S:=\sum_{n=1}^\inf a_n.$$
+A [[series]] $\sum_{i=1}^\infty a_i$ is **convergent** if the [[sequence]] $n\mapsto s_n$ of partial sums $s_n:=\sum_{i=1}^n a_i$ is a [[convergent sequence]]. In that case the infinite sum is $$\sum_{n=1}^\infty a_n:=\lim s_n.$$

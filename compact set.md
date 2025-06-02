@@ -1,0 +1,1 @@
+A nonempty subset $C\subset\mathbb{R}^n$ is **compact** if it is [[closed set|closed]] and [[bounded]].

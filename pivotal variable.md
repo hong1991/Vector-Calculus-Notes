@@ -1,0 +1,1 @@
+A column of [[matrix]] $A$ is **pivotal** if the corresponding column of [[echelon form]] $\tilde{A}$ contains a pivotal $1$. The corresponding variable in the domain is called a **pivotal variable**.

@@ -1,1 +1,0 @@
-Every nonepty subset $X\subset \mathbb{R}$ that has an upper bound has a least bound $\sup X$. Every nonempty subset $X\subset \mathbb{R}$ that has a lower bound has a greatest lower bound $\inf X$.

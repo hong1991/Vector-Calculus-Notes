@@ -1,0 +1,1 @@
+If $A$ has an [[matrix inverse|inverse]] $A^{-1}$, then for any $\vec{\mathbf{b}}$ the equation $A\vec{\mathbf{x}}=\vec{\mathbf{b}}$ has a unique solution, namely $\vec{\mathbf{x}}=A^{-1}\vec{\mathbf{b}}$.

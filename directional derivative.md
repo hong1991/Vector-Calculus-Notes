@@ -1,0 +1,1 @@
+Let $U\subset\mathbb{R}^n$ be [[open set|open]], and let $\mathbf{f}:U\to\mathbb{R}^m$ be a [[function]]. The **directional derivative** of $\mathbf{f}$ at $\mathbf{a}$ in the direction $\vec{\mathbf{v}}$ is $$\lim_{h\to0}\frac{\mathbf{f}(\mathbf{a}+h\vec{\mathbf{v}})-\mathbf{f}(\mathbf{a})}{h}.$$

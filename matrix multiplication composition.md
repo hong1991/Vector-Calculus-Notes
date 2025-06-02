@@ -2,4 +2,4 @@ Suppose $S:\mathbb{R}^n\to\mathbb{R}^m$ and $T:\mathbb{R}^m\to\mathbb{R}^l$ are 
 
 **Proof:**
 The following computation $$(T\circ S)(a\vec{\mathbf{v}}+b\vec{\mathbf{w}})=T(S(a\vec{\mathbf{v}}+b\vec{\mathbf{w}}))=T(aS(\vec{\mathbf{v}})+bS(\vec{\mathbf{w}}))$$$$=aT(S(\vec{\mathbf{v}}))+bT(S(\vec{\mathbf{w}}))=a(T\circ S)(\vec{\mathbf{v}})+b(T\circ S)(\vec{\mathbf{w}}).$$ shows that $T\circ S$ is linear.
-Then it can given by the matrix $[T\circ S]$ ([[Matrices and Linear Transformation|*]]). The $i$th column of matrix is $$[T\circ S]\vec{\mathbf{e_i}}=(T\circ S)(\vec{\mathbf{e_i}})=T(S(\vec{\mathbf{e_i}}))=T([S]\vec{\mathbf{e_i}})=[T]([S]\vec{\mathbf{e_i}})=[T][S]\vec{\mathbf{e_i}},$$ is exactly the $i$th column of $[T][S]$.
+Then it can given by the matrix $[T\circ S]$ ([[matrix and linear transformation|*]]). The $i$th column of matrix is $$[T\circ S]\vec{\mathbf{e_i}}=(T\circ S)(\vec{\mathbf{e_i}})=T(S(\vec{\mathbf{e_i}}))=T([S]\vec{\mathbf{e_i}})=[T]([S]\vec{\mathbf{e_i}})=[T][S]\vec{\mathbf{e_i}},$$ is exactly the $i$th column of $[T][S]$.
