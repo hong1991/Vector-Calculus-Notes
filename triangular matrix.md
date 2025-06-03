@@ -1,0 +1,1 @@
+An **upper triangular matrix** is a square [[matrix]] with nonzero entries only on or above the [[identity matrix|main diagonal]]. A **lower triangular matrix** is a square matrix with nonzero entries only on or below the main diagonal.
