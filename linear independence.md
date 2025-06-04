@@ -1,0 +1,1 @@
+A set of vectors $\vec{\mathbf{v}}_1,...,\vec{\mathbf{v}}_k$ is **linear independent** if the **only** solution to $$a_1\vec{\mathbf{v}}_1+a_2\vec{\mathbf{v}}_2+\cdots+a_k\vec{\mathbf{v}}_k=\vec{\mathbf{0}} \text{ is } a_1=a_2=\cdots=a_k=0.$$

@@ -1,0 +1,1 @@
+The **span** of $\vec{\mathbf{v}}_1,...,\vec{\mathbf{v}}_k$ is the set of [[linear combination]]s $a_1\vec{\mathbf{v}}_1+\cdots+a_k\vec{\mathbf{v}}_k$. It is denoted $Span(\vec{\mathbf{v}}_1,...,\vec{\mathbf{v}}_k)$.

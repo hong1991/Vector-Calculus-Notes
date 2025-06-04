@@ -1,0 +1,1 @@
+If $\vec{\mathbf{v}}_1,...,\vec{\mathbf{v}}_k$ is a collection of [[points and vectors|vectors]] in $\mathbb{R}^n$, then a **linear combination** of the $\vec{\mathbf{v}}_i$ is a vector $\vec{\mathbf{w}}$ of the form $$\vec{\mathbf{w}}=\sum_{i=1}^ka_i\vec{\mathbf{v}}_i \text{ for any scalars } a_i.$$
