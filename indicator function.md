@@ -1,0 +1,1 @@
+Let $A\subset\mathbb{R}^n$ be a [[bounded]] subset. The **indicator function** $\mathbf{1}_A$ is $$\mathbf{1}_A(\mathbf{x}):=\begin{cases}1&\text{ if }\mathbf{x}\in A \\ 0&\text{ if }\mathbf{x}\notin A\end{cases}$$
