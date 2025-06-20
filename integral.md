@@ -1,0 +1,1 @@
+A [[function]] $f:\mathbb{R}^n\to\mathbb{R}$, [[bounded]] with bounded [[support of a function|support]], is **integrable** if its [[upper and lower integrals]] are equal; its integral is then $$\int_{\mathbb{R}^n}f|d^nx|:=U(f)=L(f).$$

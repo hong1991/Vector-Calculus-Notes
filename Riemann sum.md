@@ -1,0 +1,2 @@
+In addtion to [[upper and lower integrals|upper and lower sum]], we define **Riemann sum**$$R(f,N)=\sum_{\mathbf{k}\in\mathbb{Z}^n}\operatorname{vol}_n(C_{\mathbf{k},N})f(\mathbf{x}_{\mathbf{k},N}).$$where we choose any $\mathbf{x}_{\mathbf{k},N}\in C_{\mathbf{k},N}$ we like.  
+The Riemann sums $R(f,N)$ will [[convergent sequence|converge]] to the [[integral]].
