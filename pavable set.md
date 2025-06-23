@@ -1,0 +1,1 @@
+A set is **pavable** if it has a well-defined [[n dimensional volume|volume]] (i.e., if its [[indicator function]] is [[integrable]]).

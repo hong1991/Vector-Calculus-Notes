@@ -1,0 +1,2 @@
+The n-dimensional parallelogram $$P:=I_1\times\cdots\times I_n\subset\mathbb{R}^n$$formed by the product of intervals $I_i=[a_i,b_i]$ has [[n dimensional volume|volume]] $$\operatorname{vol}_n(P)=|b_1-a_1||b_2-a_2|\cdots|b_n-a_n|.$$
+**Proof**: [[TODO]]
