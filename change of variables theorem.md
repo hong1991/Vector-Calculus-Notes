@@ -1,7 +1,7 @@
 Let $X$ be a [[compact set|compact subset]] of $\mathbb{R}^n$ with [[boundary of subset|boundary]] $\partial X$ of [[n dimensional volume|volume]] $0$; let $U\subset\mathbb{R}^n$ be an [[open set]] containing $X$. Let $\Phi:U\to\mathbb{R}^n$ be a $C^1$([[continuously differentiable function|*]]) mapping that is [[one to one|injective]] on $(X-\partial X)$ and has [[Lipschitz condition for a derivative|Lipschitz derivative]], with $[\mathbf{D}\Phi(\mathbf({x})]$ ([[derivative|*]]) [[invertible]] at every $x\in(X-\partial X)$. Set $Y=\Phi(X)$.
-Then if $f:Y\to\mathbb{R}$ is [[integrable]], $(f\circ\Phi)|\det[\mathbf{D}\Phi]|$ is integrable on $X$, and $$\int_Yf(\mathbf{y})|d^n\mathbf{y}|=\int_X(f\circ\Phi)(\mathbf{x})|\det[\mathbf{D}\Phi(\mathbf{x})]||d^n\mathbf{x}|.$$
+Then if $f:Y\to\mathbb{R}$ is [[integrable]], $(f\circ\Phi)|\det[\mathbf{D}\Phi]|$ is integrable on $X$, and ([[integral|*]])$$\int_Yf(\mathbf{y})|d^n\mathbf{y}|=\int_X(f\circ\Phi)(\mathbf{x})|\det[\mathbf{D}\Phi(\mathbf{x})]||d^n\mathbf{x}|.$$
 **Examples:**
 **Polar coordinates** $$P:\begin{pmatrix}r\\\theta\end{pmatrix}\mapsto\begin{pmatrix}x=r\cos\theta\\y=r\sin\theta\end{pmatrix}$$$$\int_Af\begin{pmatrix}x\\y\end{pmatrix}|dx\,dy|=\int_Bf\begin{pmatrix}r\cos\theta\\r\sin\theta\end{pmatrix}r|dr\,d\theta|.$$
 **Spherical coordinates**$$S:\begin{pmatrix}r\\\theta\\\varphi\end{pmatrix}\mapsto\begin{pmatrix}x=r\cos\theta\cos\varphi\\y=r\sin\theta\cos\varphi\\z=r\sin\varphi\end{pmatrix}$$$$\int_Af\begin{pmatrix}x\\y\\z\end{pmatrix}|dx\,dy\,dz|=\int_Bf\begin{pmatrix}r\cos\theta\cos\varphi\\r\sin\theta\cos\varphi\\r\sin\varphi\end{pmatrix}r^2\cos\varphi|dr\,d\theta\,d\varphi|$$
 
-**Proof**:
+**Proof**: [[TODO]]
